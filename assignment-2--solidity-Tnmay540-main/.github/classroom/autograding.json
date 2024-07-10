@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test 1",
+      "setup": "npm install",
+      "run": "npx hardhat test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}
